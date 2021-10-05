@@ -633,7 +633,7 @@
 			        	<div class="row">
 			        		<div class="col-md-8 col-sm-6 col-xs-12">
 			        			<div class="modal-image">
-				        			<img class="img-responsive" src="{{asset('assets/images/shop/products/modal-product.jpg)}}" alt="product-img" />
+				        			<img class="img-responsive" src="assets/images/shop/products/modal-product.jpg" alt="product-img" />
 			        			</div>
 			        		</div>
 			        		<div class="col-md-4 col-sm-6 col-xs-12">
